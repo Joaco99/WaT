@@ -1,0 +1,48 @@
+Name,Position,Overtime,Tipped,Housing,Type of Business,Location,State,Zone,Wage,Hours per Week,Rent
+Housekeeping,2,Maybe,Yes,Assistance,NA,Alpine Meadows,CA,California & Nevada,21.00,40,NA
+Ski Service,1,Maybe,No,Provided,NA,Truckee,CA,California & Nevada,15.80,32,$750.00 rent /month
+Housekeeping,3,Yes,Yes,Provided,Hotel,Crested Butte,CO,Rocky Mountains,15.00,40,NA
+Fast Food Crew,5,Maybe,Yes,Provided,Fast Food Restaurant,Pittsfield,MA,New England,13.50,35,NA
+Server Assistant,3,NA,Yes,NA,Hotel,Lenox,MA,New England,12.00,35,NA
+Cook,3,Maybe,No,Provided,Resort,Acme,MI,Midwest,11.00,32,NA
+Cook,3,Yes,No,Provided,Restaurant,Traverse City,MI,Midwest,15.00,40,$125.00 rent /week
+Dishwasher,2,Yes,No,Provided,Restaurant,Traverse City,MI,Midwest,15.00,40,$125.00 rent /week
+Housekeeping,20,Maybe,No,Provided,Resort,Acme,MI,Midwest,11.50,32,NA
+Waitstaff,2,Maybe,Yes,Provided,Resort,Acme,MI,Midwest,3.67,32,NA
+Housekeeping,4,NA,NA,Assistance,NA,Whitefish,MT,Rocky Mountains,10.00,35,NA
+Guest Services,1,Maybe,No,Provided,Ski Resort/Area,Maggie Valley,NC,South,8.50,32,NA
+Lift Operator,4,Maybe,No,Provided,Ski Resort/Area,Maggie Valley,NC,South,8.50,32,NA
+Ski Instructor,5,Maybe,Yes,Provided,Ski Resort/Area,Maggie Valley,NC,South,8.50,32,NA
+Cleaner,3,Maybe,Yes,Provided,Cleaning Service,Woodstock,NH,New England,14.00,38,NA
+Counter Help,2,Maybe,Yes,Provided,Restaurant,Lincoln,NH,New England,10.00,40,$125.00 rent /week
+Dishwasher,1,Maybe,No,Provided,Restaurant,Portsmouth,NH,New England,15.00,32,NA
+Front Desk,2,Maybe,No,Provided,Hotel,West Lebanon,NH,New England,16.00,40,NA
+Hospitality Crew,4,Yes,Yes,Provided,Hotel,Gorham,NH,New England,10.50,40,NA
+Housekeeping,2,Maybe,Yes,Provided,Resort,LINCOLN,NH,New England,14.00,40,$80.00 rent /week
+Housekeeping,6,Yes,Yes,Provided,Hotel,West Lebanon,NH,New England,16.00,37,NA
+Waitstaff,2,Maybe,Yes,Provided,Resort,LINCOLN,NH,New England,3.27,40,$80.00 rent /week
+Cook,4,Yes,No,Provided,Bar/Pub,Red River,NM,Southwest,15.00,40,NA
+Bartender,2,Maybe,Yes,Provided,Restaurant,Old Forge,NY,Mid-Atlantic,9.45,40,NA
+Deli Worker,2,Yes,Yes,Provided,Restaurant,Lake Placid,NY,Mid-Atlantic,14.00,40,NA
+Dishwasher,1,Maybe,No,Provided,Restaurant,Old Forge,NY,Mid-Atlantic,14.20,40,NA
+Host/Hostess,1,Maybe,Yes,Provided,Restaurant,Inlet,NY,Mid-Atlantic,9.00,40,NA
+Server,2,Maybe,Yes,Assistance,Restaurant,Lake Placid,NY,Mid-Atlantic,8.80,36,NA
+Food Prep/Prep Cook,3,Maybe,No,Assistance,Resort,Park City,UT,Rocky Mountains,18.00,32,NA
+Host/Hostess,2,Maybe,No,Assistance,Resort,Park City,UT,Rocky Mountains,15.00,40,NA
+Housekeeping,5,Maybe,No,Assistance,Resort,Park City,UT,Rocky Mountains,18.00,32,NA
+Dishwasher,1,NA,NA,Provided,Restaurant,Killington,VT,New England,15.00,32,NA
+Dishwasher,1,Maybe,No,Provided,Hotel,Ludlow,VT,New England,15.00,40,NA
+Housekeeping,1,Maybe,No,Provided,Hotel,Ludlow,VT,New England,15.00,40,NA
+Housekeeping,3,Yes,Yes,Provided,Hotel,STOWE,VT,New England,15.00,35,NA
+Server,1,NA,Yes,Provided,Hotel,Ludlow,VT,New England,11.00,35,NA
+Bus Person,2,NA,Yes,Provided,Hotel,Winthrop,WA,Pacific Northwest,14.49,40,$50.00 rent /week
+Server,7,NA,Yes,Provided,Hotel,Winthrop,WA,Pacific Northwest,14.49,40,$50.00 rent /week
+Bus Person,2,Yes,No,Provided,Resort,Wautoma,WI,Midwest,10.00,36,NA
+Dishwasher,2,Yes,No,Provided,Resort,Wautoma,WI,Midwest,10.00,40,NA
+Fast Food Crew,5,Maybe,Yes,Provided,Fast Food Restaurant,Wisc Dells,WI,Midwest,12.00,38,NA
+Food and Beverage Assistant,10,Yes,No,Provided,Concessions,Wisc Dells,WI,Midwest,10.00,40,NA
+Food Prep/Prep Cook,4,Maybe,No,Provided,NA,Green Lake,WI,Midwest,13.00,40,NA
+Housekeeping,4,Maybe,No,Provided,NA,Green Lake,WI,Midwest,12.00,40,NA
+Dishwasher,4,Maybe,No,Provided,Resort,Wheeling,WV,Mid-Atlantic,12.00,32,NA
+Housekeeping,8,Maybe,No,Provided,Resort,Wheeling,WV,Mid-Atlantic,12.00,35,NA
+Cook,3,Yes,Yes,Provided,Restaurant,Jackson,WY,Rocky Mountains,18.00,35,NA
